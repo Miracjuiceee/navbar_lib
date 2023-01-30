@@ -4,4 +4,4 @@
 
 - [X] Origin (V.1) Done (not responsive)
 - [X] V1.1 Done
-- [O] V1.2 n/a
+- [ ] V1.2 n/a
