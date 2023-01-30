@@ -1,4 +1,6 @@
 # Navbar Lib 0.1
+<p> Create a free open source navbar librairies for begginers with simple indent to study or practice.</p>
+
 
 ## Version
 
