@@ -10,11 +10,6 @@ body {
     background-color: rgb(176, 176, 231);
 }
 
-/* li, a, button {
-    font-family: 'Sora' sans-serif;
-    font-weight: 300;
-} */
-
 /* Import from here */
 li, a, button {
     font-family: 'Sora', sans-serif;
