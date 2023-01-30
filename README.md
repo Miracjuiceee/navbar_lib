@@ -1,5 +1,5 @@
-# Navbar Lib 0.1
+# Navbar Lib 1.1
 
-## Version
-
-+ Dev
++Default navbar (v.1)
+*Glow effect on pointable elements
++Dark UI
